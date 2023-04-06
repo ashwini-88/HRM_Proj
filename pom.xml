@@ -58,7 +58,7 @@
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency> -->
 	</dependencies>
-	<profiles>
+	<profiles>	
 		<profile>
 			<id>Batch</id>
 			<build>
@@ -73,7 +73,7 @@
 									<suiteXmlFile>batch.xml</suiteXmlFile>
 								</suiteXmlFiles>
 							</configuration>
-						</plugin>
+							</plugin>
 					</plugins>
 				</pluginManagement>
 			</build>
